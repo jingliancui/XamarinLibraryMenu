@@ -13,7 +13,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo
  Font|Official|||
  ChatKit|Community|[ChatKit 0.3.3](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.ChatKit/)|❌ Android Only|[Demo URL](https://github.com/jingliancui/XamarinFormsChatKitSample)|❌ Android Only|
  SmartRefreshLayout|Community||❌ Android Only||❌ Android Only|
- gRPC||||
+ gRPC|Official|||
  WeChatSDK<br>(微信SDK)|Community|||
  AliPaySDK<br>(支付宝SDK)|Community|||
 Pub/Sub|Official|||
