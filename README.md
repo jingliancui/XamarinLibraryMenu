@@ -12,7 +12,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo
  Tencent Bugly<br>(腾讯Bugly)|Community|[Bugly 3.2.3.1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Tencent.Bugly/)|[Bugly 2.5.5](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Tencent.Bugly/)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentBuglySample)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentBuglySample)|
  Font|Official|||
  ChatKit|Community|[ChatKit 0.3.3](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.ChatKit/)|❌ Android Only|[Demo URL](https://github.com/jingliancui/XamarinFormsChatKitSample)|❌ Android Only|
- SmartRefreshLayout|Community||❌ Android Only||❌ Android Only|
+ SmartRefreshLayout|Community||❌ Android Only|[Demo URL](https://github.com/jingliancui/XamarinFormsSmartRefreshLayoutSample)|❌ Android Only|
  gRPC|Official|||
  WeChatSDK<br>(微信SDK)|Community|[WechatSDK 5.5.8-rc1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.WechatSDK/)|[WechatSDK 1.8.6.2](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.WechatSDK/)|[Demo URL](https://github.com/jingliancui/XamarinFormsWechatSDKSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsWechatSDKSample)|
  AliPaySDK<br>(支付宝SDK)|Community|[AlipaySDK 15.6.8-rc1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.AlipaySDK/)|[AlipaySDK 15.6.8-rc1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AlipaySDK/)|[Demo URL](https://github.com/jingliancui/XamarinFormsAlipaySDKSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsAlipaySDKSample)|
