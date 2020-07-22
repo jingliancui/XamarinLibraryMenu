@@ -14,7 +14,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo
  ChatKit|Community|[ChatKit 0.3.3](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.ChatKit/)|❌ Android Only|[Demo URL](https://github.com/jingliancui/XamarinFormsChatKitSample)|❌ Android Only|
  SmartRefreshLayout|Community||❌ Android Only||❌ Android Only|
  gRPC|Official|||
- WeChatSDK<br>(微信SDK)|Community|||
- AliPaySDK<br>(支付宝SDK)|Community|||
+ WeChatSDK<br>(微信SDK)|Community|[WechatSDK 5.5.8-rc1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.WechatSDK/)|[WechatSDK 1.8.6.2](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.WechatSDK/)|[Demo URL](https://github.com/jingliancui/XamarinFormsWechatSDKSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsWechatSDKSample)|
+ AliPaySDK<br>(支付宝SDK)|Community|[AlipaySDK 15.6.8-rc1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.AlipaySDK/)|[AlipaySDK 15.6.8-rc1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AlipaySDK/)|[Demo URL](https://github.com/jingliancui/XamarinFormsAlipaySDKSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsAlipaySDKSample)|
 Pub/Sub|Official|||
 Circle Control|Official|||
