@@ -18,3 +18,4 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
  AliPaySDK<br>(支付宝SDK)|Community|[AlipaySDK 15.6.8-rc1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.AlipaySDK/)|[AlipaySDK 15.6.8-rc1](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AlipaySDK/)|[Demo URL](https://github.com/jingliancui/XamarinFormsAlipaySDKSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsAlipaySDKSample)|[URL](https://opendocs.alipay.com/open/54/104509)|
 Pub/Sub|Official|||
 Circle Control|Official|||
+Skia Pulse Effect|Community|[SkiaPulse 1.0](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Forms.SkiaPulse/)|[SkiaPulse 1.0](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Forms.SkiaPulse/)|[Demo URL](https://github.com/jingliancui/XamarinFormsSkiaPulseSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsSkiaPulseSample)|[URL](https://github.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms)
