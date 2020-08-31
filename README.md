@@ -22,22 +22,10 @@ Facebook Shimmer|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLi
 PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Github.Barteksc.AndroidPdfViewer.svg?label=AndroidPdfViewer)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Github.Barteksc.AndroidPdfViewer/3.2.0-beta1)|PDFkit|[DemoURL](https://github.com/jingliancui/XamarinFormsPDFSample)|[DemoURL](https://github.com/jingliancui/XamarinFormsPDFSample)|[Android](https://bintray.com/barteksc/maven/android-pdf-viewer#)<br>[iOS](https://developer.apple.com/documentation/pdfkit)|
 
 <br>
-<style type="text/css">
-    table,tr,td
-    {
-        text-align: center;        
-    }
-</style>
+
 <esacpe>
 
-<style type="text/css">
-    table,tr,td
-    {
-        text-align: center;        
-    }
-</style>
-
-<table>
+<table style="text-align: center;">
     <!--标题-->
     <tr>
       <th>Feature</th>
