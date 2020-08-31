@@ -1,6 +1,13 @@
 # XamarinLibraryMenu
 Menu of XamarinLibrary
 
+<style>
+    table,tr,td
+    {
+        text-align: center;        
+    }
+</style>
+
 Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo |Native Packages
 ---------|----------|---------|----------|----------|----------|----------
  AMap<br>(高德地图) |Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Navi3DMap.svg?label=Navi3DMap)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Navi3DMap/)<br> [![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.3DMap.svg?label=3DMap)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.3DMap/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Track.svg?label=Track)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Track/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Search.svg?label=Search)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Search/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Location.svg?label=Location)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Location)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapFoundationKit.svg?label=AMapFoundationKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapFoundationKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapLocationKit.svg?label=AMapLocationKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapLocationKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapNaviKit.svg?label=AMapNaviKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapNaviKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapSearchKit.svg?label=AMapSearchKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapSearchKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapTrackKit.svg?label=AMapTrackKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapTrackKit/)<br>MAMapKit(Use NaviKit Instead)|[Demo URL](https://github.com/jingliancui/XamarinFormsAMapSDKSample/tree/master/Android)|[Demo URL](https://github.com/jingliancui/XamarinFormsAMapSDKSample/tree/master/iOS)|[iOS](https://lbs.amap.com/api/ios-sdk/download)<br>[Android](https://lbs.amap.com/api/android-sdk/download)|
@@ -25,12 +32,6 @@ PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/n
 
 <esacpe>
 
-<style>
-    table,tr,td
-    {
-        text-align: center;        
-    }
-</style>
 <table>
     <!--标题-->
     <tr>
