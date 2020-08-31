@@ -20,12 +20,19 @@ Rounded Corner|Official|||[Demo URL](https://github.com/jingliancui/XamarinForms
 Skia Pulse Effect|Community|Forms Layer Install:<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Forms.SkiaPulse.svg?label=SkiaPulse)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Forms.SkiaPulse/)|Forms Layer Install:<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Forms.SkiaPulse.svg?label=SkiaPulse)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Forms.SkiaPulse/)|[Demo URL](https://github.com/jingliancui/XamarinFormsSkiaPulseSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsSkiaPulseSample)|[URL](https://github.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms)|
 Facebook Shimmer|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Facebook.Shimmer.svg?label=Shimmer)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Facebook.Shimmer/)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.Facebook.Shimmer.svg?label=Shimmer)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Facebook.Shimmer/)|[Demo URL](https://github.com/jingliancui/XamarinFormsFacebookShimmerSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsFacebookShimmerSample)|[Android](https://mvnrepository.com/artifact/com.facebook.shimmer/shimmer)<br>[iOS](https://cocoapods.org/pods/Shimmer)|
 PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Github.Barteksc.AndroidPdfViewer.svg?label=AndroidPdfViewer)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Github.Barteksc.AndroidPdfViewer/3.2.0-beta1)|PDFkit|[DemoURL](https://github.com/jingliancui/XamarinFormsPDFSample)|[DemoURL](https://github.com/jingliancui/XamarinFormsPDFSample)|[Android](https://bintray.com/barteksc/maven/android-pdf-viewer#)<br>[iOS](https://developer.apple.com/documentation/pdfkit)|
-Office-Excel|Official|Forms Layer Install:[![NuGet](https://img.shields.io/nuget/vpre/DocumentFormat.OpenXml.svg?label=DocumentFormat.OpenXml)](https://www.nuget.org/packages/DocumentFormat.OpenXml/)|Forms Layer Install:[![NuGet](https://img.shields.io/nuget/vpre/DocumentFormat.OpenXml.svg?label=DocumentFormat.OpenXml)](https://www.nuget.org/packages/DocumentFormat.OpenXml/)|[Demo URL](https://github.com/jingliancui/XamarinFormsExcelSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsExcelSample)|
 
 <br>
 
 <esacpe>
+
+<style>
+    table,tr,td
+    {
+        text-align: center;        
+    }
+</style>
 <table>
+    <!--标题-->
     <tr>
       <th>Feature</th>
       <th>Official <br>or<br> Community</th>
@@ -35,6 +42,7 @@ Office-Excel|Official|Forms Layer Install:[![NuGet](https://img.shields.io/nuget
       <th>iOS Demo</th>
       <th>Native Packages</th>
     </tr>
+    <!--微信SDK-->
     <tr>
         <td>WeChatSDK<br>(微信SDK)</td>
         <td>Community</td>
@@ -48,8 +56,33 @@ Office-Excel|Official|Forms Layer Install:[![NuGet](https://img.shields.io/nuget
                 <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.WechatSDK.svg?label=WechatSDK"/>
             </a>
         </td>
-        <td colspan="2" align="center">
+        <td colspan="2">
             <a href="https://github.com/jingliancui/XamarinFormsWechatSDKSample">
+                Demo URL
+            </a>
+        </td>     
+        <td>
+            <a href="https://bintray.com/wechat-sdk-team/maven/com.tencent.mm.opensdk%3Awechat-sdk-android-without-mta#">
+                Android
+            </a>
+            <br>
+            <a href="https://developers.weixin.qq.com/doc/oplatform/Downloads/iOS_Resource.html">
+                iOS
+            </a>
+        </td>
+    </tr>
+    <!--Office-Excel-->
+    <tr>
+        <td>Office-Excel</td>
+        <td>Official</td>
+        <td colspan="2">
+            Forms Layer Install<br>
+            <a href="https://www.nuget.org/packages/DocumentFormat.OpenXml/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/DocumentFormat.OpenXml.svg?label=DocumentFormat.OpenXml"/>
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/XamarinFormsExcelSample">
                 Demo URL
             </a>
         </td>     
