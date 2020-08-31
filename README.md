@@ -81,13 +81,6 @@ PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/n
             </a>
         </td>     
         <td>
-            <a href="https://bintray.com/wechat-sdk-team/maven/com.tencent.mm.opensdk%3Awechat-sdk-android-without-mta#">
-                Android
-            </a>
-            <br>
-            <a href="https://developers.weixin.qq.com/doc/oplatform/Downloads/iOS_Resource.html">
-                iOS
-            </a>
         </td>
     </tr>
   </table>
