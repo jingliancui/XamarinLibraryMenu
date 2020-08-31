@@ -25,7 +25,7 @@ PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/n
 
 <esacpe>
 
-<table style="text-align: center;">
+<table>
     <!--标题-->
     <tr>
       <th>Feature</th>
