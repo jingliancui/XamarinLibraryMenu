@@ -83,6 +83,24 @@ PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/n
         <td>
         </td>
     </tr>
+    <!--Office-Word-->
+    <tr>
+        <td>Office-Word</td>
+        <td>Official</td>
+        <td colspan="2">
+            Forms Layer Install<br>
+            <a href="https://www.nuget.org/packages/DocumentFormat.OpenXml/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/DocumentFormat.OpenXml.svg?label=DocumentFormat.OpenXml"/>
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/XamarinFormsWordSample">
+                Demo URL
+            </a>
+        </td>     
+        <td>
+        </td>
+    </tr>
   </table>
 
 </esacpe>
