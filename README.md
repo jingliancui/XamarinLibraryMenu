@@ -11,7 +11,6 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
  Tencent X5 WebView<br>(腾讯X5内核)|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Tencent.Tbs.Tbssdk.Sdk.svg?label=Tbssdk)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Tencent.Tbs.Tbssdk.Sdk/)|❌Android Only|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentX5Sample)|❌ Android Only|[URL](https://x5.tencent.com/tbs/sdk.html)|
  Tencent Bugly<br>(腾讯Bugly)|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Tencent.Bugly.svg?label=Bugly)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Tencent.Bugly/)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.Tencent.Bugly.svg?label=Bugly)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Tencent.Bugly/)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentBuglySample)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentBuglySample)|[URL](https://bugly.qq.com/v2/downloads)|
  Font|Official|||[Demo URL](https://github.com/jingliancui/XamarinFormsFontAwesomeSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsFontAwesomeSample)|
- ChatKit|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.ChatKit.svg?label=ChatKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.ChatKit/)|❌ Android Only|[Demo URL](https://github.com/jingliancui/XamarinFormsChatKitSample)|❌ Android Only|[URL](https://github.com/stfalcon-studio/ChatKit#download)|
  SmartRefreshLayout|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshLayout.svg?label=SmartRefreshLayout)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshLayout/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshHeader.svg?label=SmartRefreshHeader)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshHeader/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.SmartRefresh.SmartRefreshHorizontal.svg?label=SmartRefreshHorizontal)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.SmartRefresh.SmartRefreshHorizontal/)<br>-----------------<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshLayoutKernel.svg?label=RefreshLayoutKernel)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshLayoutKernel/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderTwoLevel.svg?label=RefreshHeaderTwoLevel)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderTwoLevel/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderRadar.svg?label=RefreshHeaderRadar)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderRadar/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderMaterial.svg?label=RefreshHeaderMaterial)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderMaterial/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderFalsify.svg?label=RefreshHeaderFalsify)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderFalsify/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderClassics.svg?label=RefreshHeaderClassics)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderClassics/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterClassics.svg?label=RefreshFooterClassics)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterClassics/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterBall.svg?label=RefreshFooterBall)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterBall/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshDrawablePath.svg?label=RefreshDrawablePath)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshDrawablePath/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshDrawablePaint.svg?label=RefreshDrawablePaint)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshDrawablePaint/2.0.0-alpha1)|❌ Android Only|[Demo URL](https://github.com/jingliancui/XamarinFormsSmartRefreshLayoutSample)|❌ Android Only|[URL](https://github.com/scwang90/SmartRefreshLayout#1在-buildgradle-中添加依赖)|
  gRPC|Official|Forms Layer Install:[![NuGet](https://img.shields.io/nuget/vpre/Grpc.Core.svg?label=Grpc.Core)](https://www.nuget.org/packages/Grpc.Core/)[![NuGet](https://img.shields.io/nuget/vpre/Google.Protobuf.svg?label=Google.Protobuf)](https://www.nuget.org/packages/Google.Protobuf/4.0.0-rc2)|Forms Layer Install:[![NuGet](https://img.shields.io/nuget/vpre/Grpc.Core.svg?label=Grpc.Core)](https://www.nuget.org/packages/Grpc.Core/)[![NuGet](https://img.shields.io/nuget/vpre/Google.Protobuf.svg?label=Google.Protobuf)](https://www.nuget.org/packages/Google.Protobuf/4.0.0-rc2)|[Demo URL](https://github.com/jingliancui/XamarinFormsGRPCSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsGRPCSample)|
  AliPaySDK<br>(支付宝SDK)|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.AlipaySDK.svg?label=AlipaySDK)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.AlipaySDK/)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AlipaySDK.svg?label=AlipaySDK)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AlipaySDK/)|[Demo URL](https://github.com/jingliancui/XamarinFormsAlipaySDKSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsAlipaySDKSample)|[URL](https://opendocs.alipay.com/open/204/105051)|
@@ -101,6 +100,32 @@ PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/n
         <td>
         </td>
     </tr>
-  </table>
+    <!--Chatkit-->
+    <tr>
+        <td>Chatkit</td>
+        <td>Community</td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.ChatKit/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.ChatKit.svg?label=Chatkit"/>
+            </a>
+        </td>
+        <td>
+            ❌ Android Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/XamarinFormsChatKitSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            ❌ Android Only
+        </td>    
+        <td>
+            <a href="https://mvnrepository.com/artifact/com.github.stfalcon/chatkit/0.3.3">
+                URL
+            </a>
+        </td>
+    </tr>
+</table>
 
 </esacpe>
