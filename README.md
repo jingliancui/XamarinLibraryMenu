@@ -123,6 +123,24 @@ PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/n
         <td>
         </td>
     </tr>
+    <!--Skia Pulse Effect-->
+    <tr>
+        <td>Skia Pulse Effect</td>
+        <td>Community</td>
+        <td colspan="2">
+            Forms Layer Install<br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Forms.SkiaPulse/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Forms.SkiaPulse.svg?label=SkiaPulse"/>
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/XamarinFormsSkiaPulseSample">
+                Demo URL
+            </a>
+        </td>     
+        <td>
+        </td>
+    </tr>
     <!--Chatkit-->
     <tr>
         <td>Chatkit</td>
