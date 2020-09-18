@@ -231,8 +231,7 @@ Rounded Corner|Official|||[Demo URL](https://github.com/jingliancui/XamarinForms
             Forms Layer Install<br>
             <a href="https://www.nuget.org/packages/Grpc.Core/">
                 <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Grpc.Core.svg?label=Grpc.Core"/>
-            </a>
-            <br>
+            </a>            
             <a href="https://www.nuget.org/packages/Google.Protobuf/">
                 <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Google.Protobuf?label=Google.Protobuf"/>
             </a>
