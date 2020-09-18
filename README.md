@@ -205,7 +205,9 @@ Rounded Corner|Official|||[Demo URL](https://github.com/jingliancui/XamarinForms
             </a>
         </td>
         <td>
-            PDFKit
+            <a href="https://docs.microsoft.com/en-us/dotnet/api/pdfkit">
+                PDFKit
+            </a>
         </td>
         <td colspan="2">
             <a href="https://github.com/jingliancui/XamarinFormsPDFSample">
