@@ -233,11 +233,32 @@ Rounded Corner|Official|||[Demo URL](https://github.com/jingliancui/XamarinForms
                 <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Grpc.Core.svg?label=Grpc.Core"/>
             </a>            
             <a href="https://www.nuget.org/packages/Google.Protobuf/">
-                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Google.Protobuf?label=Google.Protobuf"/>
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Google.Protobuf.svg?label=Google.Protobuf"/>
             </a>
         </td>
         <td colspan="2">
             <a href="https://github.com/jingliancui/XamarinFormsGRPCSample">
+                Demo URL
+            </a>
+        </td>     
+        <td>
+        </td>
+    </tr>
+    <!--AppCenter-->
+    <tr>
+        <td>AppCenter</td>
+        <td>Official</td>
+        <td colspan="2">
+            Forms Layer Install<br>
+            <a href="https://www.nuget.org/packages/Microsoft.AppCenter.Analytics/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Microsoft.AppCenter.Analytics.svg?label=Analytics"/>
+            </a>            
+            <a href="https://www.nuget.org/packages/Microsoft.AppCenter.Crashes/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Microsoft.AppCenter.Crashes.svg?label=Crashes"/>
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/XamarinFormsMicrosoftAppCenterSample">
                 Demo URL
             </a>
         </td>     
