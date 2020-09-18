@@ -15,7 +15,6 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
  gRPC|Official|Forms Layer Install:[![NuGet](https://img.shields.io/nuget/vpre/Grpc.Core.svg?label=Grpc.Core)](https://www.nuget.org/packages/Grpc.Core/)[![NuGet](https://img.shields.io/nuget/vpre/Google.Protobuf.svg?label=Google.Protobuf)](https://www.nuget.org/packages/Google.Protobuf/4.0.0-rc2)|Forms Layer Install:[![NuGet](https://img.shields.io/nuget/vpre/Grpc.Core.svg?label=Grpc.Core)](https://www.nuget.org/packages/Grpc.Core/)[![NuGet](https://img.shields.io/nuget/vpre/Google.Protobuf.svg?label=Google.Protobuf)](https://www.nuget.org/packages/Google.Protobuf/4.0.0-rc2)|[Demo URL](https://github.com/jingliancui/XamarinFormsGRPCSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsGRPCSample)|
 Pub/Sub|Official|||
 Rounded Corner|Official|||[Demo URL](https://github.com/jingliancui/XamarinFormsRoundedCornerSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsRoundedCornerSample)|
-PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Github.Barteksc.AndroidPdfViewer.svg?label=AndroidPdfViewer)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Github.Barteksc.AndroidPdfViewer/3.2.0-beta1)|PDFkit|[DemoURL](https://github.com/jingliancui/XamarinFormsPDFSample)|[DemoURL](https://github.com/jingliancui/XamarinFormsPDFSample)|[Android](https://bintray.com/barteksc/maven/android-pdf-viewer#)<br>[iOS](https://developer.apple.com/documentation/pdfkit)|
 
 <br>
 
@@ -194,7 +193,37 @@ PDF|Android:<br>Community<br>iOS:<br>Official|[![NuGet](https://img.shields.io/n
                 iOS
             </a>
         </td>
-    </tr>  
+    </tr>
+    <!--PDF-->
+    <tr>
+        <td>PDF</td>
+        <td>
+            Android:<br>Community
+            iOS:<br>Official
+        </td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Github.Barteksc.AndroidPdfViewer/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Github.Barteksc.AndroidPdfViewer.svg?label=AndroidPdfViewer"/>
+            </a>
+        </td>
+        <td>
+            PDFKit
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/XamarinFormsPDFSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            <a href="https://bintray.com/barteksc/maven/android-pdf-viewer#">
+                Android
+            </a>
+            <br>
+            <a href="https://developer.apple.com/documentation/pdfkit">
+                iOS
+            </a>
+        </td>
+    </tr>
 </table>
 
 </esacpe>
