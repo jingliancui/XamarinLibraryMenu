@@ -298,6 +298,23 @@ Pub/Sub|Official|||
         <td>
         </td>
     </tr>
+    <!--Video Background-->
+    <tr>
+        <td>Video Background<br>(MediaElement)</td>
+        <td>Official</td>
+        <td colspan="2">
+            <a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/mediaelement">
+                MediaElement
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/XamarinFormsVideoBackgroundrSample">
+                Demo URL
+            </a>
+        </td>     
+        <td>
+        </td>
+    </tr>
 </table>
 
 </esacpe>
