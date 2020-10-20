@@ -8,7 +8,6 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
  MJRefresh |Community| ❌ iOS Only |[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.MJRefresh.svg?label=MJRefresh)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.MJRefresh/)|❌ iOS Only  |[Demo URL](https://github.com/jingliancui/XamarinFormsMJRefreshSample)|[URL](https://github.com/CoderMJLee/MJRefresh#How_to_use_MJRefresh)|
  Tencent OpenSDK<br>(腾讯OpenSDK)|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Tencent.OpenSDK.svg?label=OpenSDK)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Tencent.OpenSDK/)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.Tencent.OpenAPI.svg?label=OpenAPI)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Tencent.OpenAPI/)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentOpenSDKSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentOpenSDKSample)|[URL](https://wiki.open.qq.com/wiki/mobile/SDK下载)|
  Tencent Bugly<br>(腾讯Bugly)|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Tencent.Bugly.svg?label=Bugly)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Tencent.Bugly/)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.Tencent.Bugly.svg?label=Bugly)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Tencent.Bugly/)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentBuglySample)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentBuglySample)|[URL](https://bugly.qq.com/v2/downloads)|
- SmartRefreshLayout|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshLayout.svg?label=SmartRefreshLayout)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshLayout/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshHeader.svg?label=SmartRefreshHeader)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshHeader/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.SmartRefresh.SmartRefreshHorizontal.svg?label=SmartRefreshHorizontal)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.SmartRefresh.SmartRefreshHorizontal/)<br>***<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshLayoutKernel.svg?label=RefreshLayoutKernel)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshLayoutKernel/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderTwoLevel.svg?label=RefreshHeaderTwoLevel)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderTwoLevel/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderRadar.svg?label=RefreshHeaderRadar)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderRadar/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderMaterial.svg?label=RefreshHeaderMaterial)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderMaterial/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderFalsify.svg?label=RefreshHeaderFalsify)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderFalsify/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderClassics.svg?label=RefreshHeaderClassics)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderClassics/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterClassics.svg?label=RefreshFooterClassics)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterClassics/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterBall.svg?label=RefreshFooterBall)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterBall/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshDrawablePath.svg?label=RefreshDrawablePath)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshDrawablePath/2.0.0-alpha1)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshDrawablePaint.svg?label=RefreshDrawablePaint)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshDrawablePaint/2.0.0-alpha1)|❌ Android Only|[Demo URL](https://github.com/jingliancui/XamarinFormsSmartRefreshLayoutSample)|❌ Android Only|[URL](https://github.com/scwang90/SmartRefreshLayout#1在-buildgradle-中添加依赖)|
 Pub/Sub|Official|||
 
 <br>
@@ -380,7 +379,60 @@ Pub/Sub|Official|||
         </td>     
         <td>
         </td>
-    </tr>    
+    </tr>
+    <tr>
+        <td>SmartRefreshLayout</td>
+        <td>Community</td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshLayout/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshLayout.svg?label=SmartRefreshLayout"/>
+            </a><br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshHeader/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smartrefresh.SmartRefreshHeader.svg?label=SmartRefreshHeader"/>
+            </a><br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.SmartRefresh.SmartRefreshHorizontal/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.SmartRefresh.SmartRefreshHorizontal.svg?label=SmartRefreshHorizontal"/>
+            </a><br>
+            <hr>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderTwoLevel/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderTwoLevel.svg?label=RefreshHeaderTwoLevel"/>
+            </a><br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderRadar/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderRadar.svg?label=RefreshHeaderRadar"/>
+            </a><br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderMaterial/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderMaterial.svg?label=RefreshHeaderMaterial"/>
+            </a><br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderFalsify/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderFalsify.svg?label=RefreshHeaderFalsify"/>
+            </a><br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderClassics/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshHeaderClassics.svg?label=RefreshHeaderClassics"/>
+            </a><br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterClassics/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterClassics.svg?label=RefreshFooterClassics"/>
+            </a><br>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterBall/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Smart.RefreshFooterBall.svg?label=RefreshFooterBall"/>
+            </a>
+        </td>
+        <td>
+            ❌ Android Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/XamarinFormsSmartRefreshLayoutSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            ❌ Android Only
+        </td>    
+        <td>
+            <a href="https://github.com/scwang90/SmartRefreshLayout#1%E5%9C%A8-buildgradle-%E4%B8%AD%E6%B7%BB%E5%8A%A0%E4%BE%9D%E8%B5%96">
+                URL
+            </a>
+        </td>
+    </tr>
 </table>
 
 </esacpe>
