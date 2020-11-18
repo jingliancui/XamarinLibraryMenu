@@ -88,6 +88,9 @@ Pub/Sub|Official|||
             </a>
         </td>
         <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.QMUITeam.QMUI/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.QMUITeam.QMUI.svg?label=QMUI"/>
+            </a>
         </td>
         <td colspan="2">
             <a href="https://github.com/jingliancui/XamarinFormsQMUISample">
@@ -97,6 +100,10 @@ Pub/Sub|Official|||
         <td>
             <a href="https://github.com/Tencent/QMUI_Android">
                 Android
+            </a>
+            <br>
+            <a href="https://cocoapods.org/pods/QMUIKit">
+                <img alt="Pod" src="https://img.shields.io/cocoapods/v/QMUIKit.svg"/>
             </a>
         </td>
     </tr>
