@@ -112,7 +112,7 @@ Pub/Sub|Official|||
             </a>
             <br>
             <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.QMUITeam.Arch/">
-                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.QMUITeam.Arch.svg?label=QMUI Arch"/>
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.QMUITeam.Arch.svg?label=QMUI%20Arch"/>
             </a>
         </td>
         <td>
