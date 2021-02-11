@@ -217,7 +217,7 @@ Pub/Sub|Official|||
     </tr>
     <!--Chatkit-->
     <tr>
-        <td>Chatkit</td>
+        <td>Chatkit(android.support.*)</td>
         <td>Community</td>
         <td>
             <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.ChatKit/">
