@@ -141,7 +141,7 @@ Pub/Sub|Official|||
         <td>Community</td>
         <td>
             <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Tencent.Tbs.Tbssdk.Sdk/">
-                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Tencent.Tbs.Tbssdk.Sdk.svg?label=Chatkit"/>
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Tencent.Tbs.Tbssdk.Sdk.svg?label=Tbssdk"/>
             </a>
         </td>
         <td>
