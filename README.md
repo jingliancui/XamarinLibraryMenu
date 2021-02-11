@@ -241,6 +241,32 @@ Pub/Sub|Official|||
             </a>
         </td>
     </tr>
+    <!--Chatkit-->
+    <tr>
+        <td>Chatkit(androidx)</td>
+        <td>Community</td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.AndroidX.ChatKit/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.AndroidX.ChatKit.svg?label=Chatkit"/>
+            </a>
+        </td>
+        <td>
+            ❌ Android Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/XamarinFormsChatKitSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            ❌ Android Only
+        </td>    
+        <td>
+            <a href="https://mvnrepository.com/artifact/com.github.stfalcon/chatkit/0.3.3">
+                URL
+            </a>
+        </td>
+    </tr>
     <!--Facebook Shimmer-->
     <tr>
         <td>Facebook Shimmer</td>
