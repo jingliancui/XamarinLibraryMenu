@@ -23,6 +23,32 @@ Pub/Sub|Official|||
       <th>iOS Demo</th>
       <th>Native Packages</th>
     </tr>
+    <!--FSCalendar-->
+    <tr>
+        <td>FSCalendar</td>
+        <td>Community</td>
+        <td>
+            ❌ iOS Only
+        </td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Wenchaod.FSCalendar/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.Wenchaod.FSCalendar.svg?label=FSCalendar"/>
+            </a>
+        </td>
+        <td>
+            ❌ iOS Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/XamarinFormsFSCalendarSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            <a href="https://cocoapods.org/pods/FSCalendar">
+                <img alt="Pod" src="https://img.shields.io/cocoapods/v/FSCalendar.svg"/>
+            </a>
+        </td>
+    </tr>
     <!--MVVM tools Sample-->
     <tr>
         <td>MVVM tools</td>
