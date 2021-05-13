@@ -23,6 +23,32 @@ Pub/Sub|Official|||
       <th>iOS Demo</th>
       <th>Native Packages</th>
     </tr>
+    <!--CalendarView-->
+    <tr>
+        <td>CalendarView</td>
+        <td>Community</td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Haibin.CalendarView/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Haibin.CalendarView.svg?label=CalendarView"/>
+            </a>
+        </td>
+        <td>
+            ❌ Android Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/XamarinFormsCalendarViewSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            ❌ Android Only
+        </td>    
+        <td>
+            <a href="https://github.com/huanghaibin-dev/CalendarView">
+                <img alt="jitpack" src="https://jitpack.io/v/princekin-f/EasyFloat.svg"/>
+            </a>
+        </td>
+    </tr>
     <!--FSCalendar-->
     <tr>
         <td>FSCalendar</td>
