@@ -45,7 +45,7 @@ Pub/Sub|Official|||
         </td>    
         <td>
             <a href="https://github.com/huanghaibin-dev/CalendarView">
-                <img alt="jitpack" src="https://jitpack.io/v/princekin-f/EasyFloat.svg"/>
+                URL
             </a>
         </td>
     </tr>
