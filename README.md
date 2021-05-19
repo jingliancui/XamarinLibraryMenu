@@ -45,7 +45,7 @@ Pub/Sub|Official|||
         </td>    
         <td>
             <a href="https://jitpack.io/#princekin-f/EasyFloat">
-                <img alt="Pod" src="https://jitpack.io/v/princekin-f/EasyFloat.svg"/>
+                <img alt="EasyFloat" src="https://jitpack.io/v/princekin-f/EasyFloat.svg"/>
             </a>
         </td>
     </tr>
