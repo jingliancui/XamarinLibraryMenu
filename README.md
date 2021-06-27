@@ -23,6 +23,32 @@ Pub/Sub|Official|||
       <th>iOS Demo</th>
       <th>Native Packages</th>
     </tr>
+    <!--DialogX-->
+    <tr>
+        <td>DialogX</td>
+        <td>Community</td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Kongzue.DialogX/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Kongzue.DialogX.svg?label=DialogX"/>
+            </a>
+        </td>
+        <td>
+            ❌ Android Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/XamarinFormsDialogXSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            ❌ Android Only
+        </td>    
+        <td>
+            <a href="https://jitpack.io/#kongzue/DialogX">
+                <img alt="Pod" src="https://jitpack.io/v/kongzue/DialogX.svg"/>
+            </a>
+        </td>
+    </tr>
     <!--EasyFloat-->
     <tr>
         <td>EasyFloat</td>
