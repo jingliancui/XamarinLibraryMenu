@@ -23,6 +23,32 @@ Pub/Sub|Official|||
       <th>iOS Demo</th>
       <th>Native Packages</th>
     </tr>
+    <!--LSTPopView-->
+    <tr>
+        <td>LSTPopView</td>
+        <td>Community</td>
+        <td>
+            ❌ iOS Only
+        </td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.LoSenTrad.LSTPopView/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.LoSenTrad.LSTPopView.svg?label=LSTPopView"/>
+            </a>
+        </td>
+        <td>
+            ❌ iOS Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/XamarinFormsLSTPopViewSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            <a href="https://github.com/LoSenTrad/LSTPopView">
+                URL
+            </a>
+        </td>
+    </tr>
     <!--RichEditor-->
     <tr>
         <td>RichEditor</td>
