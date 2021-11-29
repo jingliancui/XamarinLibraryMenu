@@ -745,7 +745,6 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
         <td>Pub/Sub (MessagingCenter)</td>
         <td>Official</td>
         <td colspan="2">
-            Visual Studio Preview MVVM tool<br> Or<br> Forms Layer Install<br>
             <a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/messaging-center">
                 Microsoft Documents
             </a>
