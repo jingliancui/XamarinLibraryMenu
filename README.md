@@ -21,6 +21,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>Android Demo</th>
       <th>iOS Demo</th>
       <th>Native Packages</th>
+      <th>Effect</th>
     </tr>
     <!--CustomPopoverView-->
     <tr>
@@ -46,6 +47,9 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             <a href="https://cocoapods.org/pods/CustomPopOverView">
                 <img alt="Pod" src="https://img.shields.io/cocoapods/v/CustomPopOverView.svg"/>
             </a>
+        </td>
+        <td>
+            <img alt="CustomPopoverView" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/iOS/CustomPopoverView.gif?raw=true" />
         </td>
     </tr>
     <!--BasePopup-->
