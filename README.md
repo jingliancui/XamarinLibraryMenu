@@ -34,7 +34,6 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.CustomPopOverView/">
                 <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.CustomPopOverView.svg?label=CustomPopOverView"/>
             </a>
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
         </td>
         <td>
             ❌ iOS Only
