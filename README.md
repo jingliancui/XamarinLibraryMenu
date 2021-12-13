@@ -103,6 +103,9 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
                 URL
             </a>
         </td>
+        <td>
+            <img alt="LSTPopView" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/iOS/LSTPopView.gif?raw=true" />
+        </td>
     </tr>
     <!--RichEditor-->
     <tr>
