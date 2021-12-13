@@ -99,8 +99,8 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td> 
         <td>
-            <a href="https://github.com/LoSenTrad/LSTPopView">
-                URL
+            <a href="https://cocoapods.org/pods/LSTPopView">
+                <img alt="Pod" src="https://img.shields.io/cocoapods/v/LSTPopView.svg"/>
             </a>
         </td>
         <td>
