@@ -392,6 +392,12 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
                 URL
             </a>
         </td>
+        <td>            
+            <img alt="LoadLib" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/TencentX5(TBS)/LoadLib.gif?raw=true"/>
+            <img alt="ServeNet" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/TencentX5(TBS)/ServeNet.gif?raw=true"/>
+            <img alt="PlayVideo" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/TencentX5(TBS)/PlayVideo.gif?raw=true"/>
+            <img alt="OpenFile" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/TencentX5(TBS)/OpenFile.gif?raw=true"/>
+        </td>
     </tr>    
     <!--Office-Excel-->
     <tr>
