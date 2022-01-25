@@ -33,7 +33,9 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
         <td>
-            later iOS
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Nightonke.VHBoomMenuButton/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.Nightonke.VHBoomMenuButton.svg?label=VHBoomMenuButton"/>
+            </a>
         </td>
         <td>
             <a href="https://github.com/jingliancui/XamarinFormsBoomMenuSample">
