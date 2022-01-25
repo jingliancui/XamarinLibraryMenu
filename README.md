@@ -23,7 +23,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>Native Packages</th>
       <th>Effect</th>
     </tr>
-<!--BoomMenu-->
+    <!--BoomMenu-->
     <tr>
         <td>BoomMenu</td>
         <td>Community</td>
@@ -37,17 +37,22 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
         </td>
         <td>
             <a href="https://github.com/jingliancui/XamarinFormsBoomMenuSample">
-                Demo URL
-            </a>
+                Android Demo
+            </a>            
         </td> 
         <td>
-            later iOS
+            <a href="https://github.com/jingliancui/XamarinFormsVHBoomMenuButtonSample">
+                iOS Demo
+            </a>
         </td>    
         <td>   
-            URL
+            <a href="https://cocoapods.org/pods/VHBoomMenuButton">
+                <img alt="Pod" src="https://img.shields.io/cocoapods/v/VHBoomMenuButton.svg"/>
+            </a>
         </td>
         <td>            
-            <img alt="click" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/BoomMenu/click.gif?raw=true"/>
+            <img alt="Android" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/BoomMenu/click.gif?raw=true"/>
+            <img alt="iOS" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/iOS/VHBoomMenuButton.gif?raw=true"/>
         </td>
     </tr>
     <!--CustomPopoverView-->
