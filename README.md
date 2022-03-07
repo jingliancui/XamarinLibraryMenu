@@ -23,6 +23,27 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>Native Packages</th>
       <th>Effect</th>
     </tr>
+    <!--XCT DrawingView Popup Sample-->
+    <tr>
+        <td>XCT DrawingView Popup</td>
+        <td>Official</td>
+        <td colspan="2">
+            Forms Layer Install<br>
+            <a href="https://www.nuget.org/packages/Xamarin.CommunityToolkit/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/Xamarin.CommunityToolkit.svg?label=Xamarin.CommunityToolkit"/>
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/XamarinFormsXCTDrawingViewPopupSample">
+                Demo URL
+            </a>
+        </td>     
+        <td>
+        </td>
+        <td>            
+            <img alt="xct drawingview popup" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/CrossPlatform/XCT/XCTDrawingViewAndPopView.gif?raw=true"/>
+        </td>
+    </tr>
     <!--Baidu Map Android-->
     <tr>
         <td>Baidu Map SDK</td>
