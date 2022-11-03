@@ -318,7 +318,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             ❌ Android Only
         </td>
         <td>
-            <a href="https://github.com/jingliancui/XamarinFormsCalendarViewSample">
+            <a href="https://github.com/jingliancui/DotNetCalendarViewSample">
                 Demo URL
             </a>
         </td> 
