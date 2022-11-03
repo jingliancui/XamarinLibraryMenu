@@ -339,15 +339,19 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             ❌ iOS Only
         </td>
         <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Net.iOS.Wenchaod.FSCalendar/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Net.iOS.Wenchaod.FSCalendar.svg?label=FSCalendar"/>
+            </a><br>
+            <hr>
             <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Wenchaod.FSCalendar/">
                 <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.Wenchaod.FSCalendar.svg?label=FSCalendar"/>
-            </a>
+            </a><br>
         </td>
         <td>
             ❌ iOS Only
         </td>
         <td>
-            <a href="https://github.com/jingliancui/XamarinFormsFSCalendarSample">
+            <a href="https://github.com/jingliancui/DotNetFSCalendarSample">
                 Demo URL
             </a>
         </td> 
