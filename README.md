@@ -330,6 +330,9 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
                 URL
             </a>
         </td>
+        <td>            
+            <img alt="calendarview" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/CalendarView.gif?raw=true"/>
+        </td>
     </tr>
     <!--FSCalendar-->
     <tr>
@@ -359,6 +362,9 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             <a href="https://cocoapods.org/pods/FSCalendar">
                 <img alt="Pod" src="https://img.shields.io/cocoapods/v/FSCalendar.svg"/>
             </a>
+        </td>
+        <td>            
+            <img alt="fscalendar" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/iOS/FSCalendar.gif?raw=true"/>
         </td>
     </tr>
     <!--MVVM tools Sample-->
