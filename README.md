@@ -23,6 +23,26 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>Native Packages</th>
       <th>Effect</th>
     </tr>
+    <!--Lottie Sample-->
+    <tr>
+        <td>Lottie</td>
+        <td>Official</td>
+        <td colspan="2">            
+            <a href="https://www.nuget.org/packages/SkiaSharp.Extended.UI.Maui/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/SkiaSharp.Extended.UI.Maui.svg?label=SkiaSharp.Extended.UI.Maui"/>
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/DotNetLottieSample">
+                Demo URL
+            </a>
+        </td>     
+        <td>
+        </td>
+        <td>            
+            <img alt="Lottie" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/CrossPlatform/MAUI_Lottie.gif?raw=true"/>
+        </td>
+    </tr>
     <!--XCT DrawingView Popup Sample-->
     <tr>
         <td>XCT DrawingView Popup</td>
