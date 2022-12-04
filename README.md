@@ -5,7 +5,6 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
 ---------|----------|---------|----------|----------|----------|----------
  AMap<br>(高德地图) |Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Navi3DMap.svg?label=Navi3DMap)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Navi3DMap/)<br> [![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.3DMap.svg?label=3DMap)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.3DMap/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Track.svg?label=Track)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Track/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Search.svg?label=Search)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Search/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Location.svg?label=Location)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Location)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapFoundationKit.svg?label=AMapFoundationKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapFoundationKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapLocationKit.svg?label=AMapLocationKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapLocationKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapNaviKit.svg?label=AMapNaviKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapNaviKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapSearchKit.svg?label=AMapSearchKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapSearchKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapTrackKit.svg?label=AMapTrackKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapTrackKit/)<br>MAMapKit(Use NaviKit Instead)|[Demo URL](https://github.com/jingliancui/XamarinFormsAMapSDKSample/tree/master/Android)|[Demo URL](https://github.com/jingliancui/XamarinFormsAMapSDKSample/tree/master/iOS)|[iOS](https://lbs.amap.com/api/ios-sdk/download)<br>[Android](https://lbs.amap.com/api/android-sdk/download)|
  JPush<br>(极光推送) |Community| auto:<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Jcore.svg?label=JCore)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Jcore/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Jpush.svg?label=JPush)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Jpush/)<br>manual:<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Manual.JCore.svg?label=JCore)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Manual.JCore/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Manual.JPush.svg?label=JPush)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Manual.JPush/)| ❌ | [Demo URL](https://github.com/jingliancui/XamarinFormsJPushSample) |❌|[Android](https://docs.jiguang.cn/jpush/client/Android/android_guide/#jcenter)<br>[iOS](https://docs.jiguang.cn/jpush/client/iOS/ios_guide_new/#_4)|
- Tencent OpenSDK<br>(腾讯OpenSDK)|Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Tencent.OpenSDK.svg?label=OpenSDK)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Tencent.OpenSDK/)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.Tencent.OpenAPI.svg?label=OpenAPI)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.Tencent.OpenAPI/)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentOpenSDKSample)|[Demo URL](https://github.com/jingliancui/XamarinFormsTencentOpenSDKSample)|[URL](https://wikinew.open.qq.com/#/iwiki/864512506)|
 
 <br>
 
@@ -23,6 +22,35 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>Native Packages</th>
       <th>Effect</th>
     </tr>
+    <!--Tencent OpenSDK and OpenAPI-->
+    <tr>
+        <td>Tencent Android OpenSDK and iOS OpenAPI</td>
+        <td>Community</td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Tencent.OpenSDK/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Tencent.OpenSDK.svg?label=OpenSDK"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Net.iOS.TencentOpenAPI/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Net.iOS.TencentOpenAPI.svg?label=TencentOpenAPI"/>
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/DotNetTencentOpenSDKSample">
+                Demo URL
+            </a>
+        </td>         
+        <td>
+            <a href ="https://wiki.connect.qq.com/">
+                Connect QQ 
+            </a>
+        </td>
+        <td>            
+            <img alt="Android" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/OpenSDK.gif?raw=true"/>
+            <img alt="iOS" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/iOS/TencentOpenAPI.gif?raw=true"/>
+        </td>
+    </tr> 
     <!--Lottie Sample-->
     <tr>
         <td>Lottie</td>
