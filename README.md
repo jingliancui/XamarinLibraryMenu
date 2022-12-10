@@ -965,6 +965,9 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             <a href="https://learn.microsoft.com/en-us/windows/communitytoolkit/mvvm/messenger">
                 Messenger
             </a>
+            <a href="https://www.nuget.org/packages/CommunityToolkit.Mvvm">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/CommunityToolkit.Mvvm.svg?label=CommunityToolkit.Mvvm"/>
+            </a>
             <br>
             <a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/messaging-center">
                 MessagingCenter-legacy
