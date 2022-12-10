@@ -957,13 +957,17 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
     </tr>
-    <!--Pub/Sub (MessagingCenter)-->
+    <!--Publish/Subscribe (MessagingCenter)-->
     <tr>
-        <td>Pub/Sub (MessagingCenter)</td>
+        <td>Publish/Subscribe<br>(Messenger)<br>(MessagingCenter-legacy)</td>
         <td>Official</td>
         <td colspan="2">
+            <a href="https://learn.microsoft.com/en-us/windows/communitytoolkit/mvvm/messenger">
+                Messenger
+            </a>
+            <br>
             <a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/messaging-center">
-                Microsoft Documents
+                MessagingCenter-legacy
             </a>
         </td>
         <td colspan="2">
