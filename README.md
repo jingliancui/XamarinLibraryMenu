@@ -21,6 +21,38 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>Native Packages</th>
       <th>Effect</th>
     </tr>
+    <!--Jpush-->
+    <tr>
+        <td>JPush</td>
+        <td>Community</td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.DotNet.Android.JPush/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.DotNet.Android.JPush.svg?label=JPush"/>
+            </a>
+            <br>
+        </td>
+        <td>
+            ❌ Android Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/DotNetJPushSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            ❌ Android Only
+        </td>    
+        <td>
+            <a href ="https://docs.jiguang.cn/jpush/quickstart/Android_quick">
+                JPush document               
+            </a>
+        </td>
+        <td>            
+            <a href ="https://docs.jiguang.cn/jpush/quickstart/Android_quick">
+                JPush document               
+            </a>
+        </td>
+    </tr>    
     <!--Tencent OpenSDK and OpenAPI-->
     <tr>
         <td>Tencent Android OpenSDK and iOS OpenAPI</td>
