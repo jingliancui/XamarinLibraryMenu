@@ -4,7 +4,6 @@ Menu of XamarinLibrary
 Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo |Native Packages
 ---------|----------|---------|----------|----------|----------|----------
  AMap<br>(高德地图) |Community|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Navi3DMap.svg?label=Navi3DMap)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Navi3DMap/)<br> [![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.3DMap.svg?label=3DMap)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.3DMap/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Track.svg?label=Track)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Track/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Search.svg?label=Search)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Search/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Amap.Api.Location.svg?label=Location)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Amap.Api.Location)|[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapFoundationKit.svg?label=AMapFoundationKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapFoundationKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapLocationKit.svg?label=AMapLocationKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapLocationKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapNaviKit.svg?label=AMapNaviKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapNaviKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapSearchKit.svg?label=AMapSearchKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapSearchKit/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.iOS.AMapTrackKit.svg?label=AMapTrackKit)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.iOS.AMapTrackKit/)<br>MAMapKit(Use NaviKit Instead)|[Demo URL](https://github.com/jingliancui/XamarinFormsAMapSDKSample/tree/master/Android)|[Demo URL](https://github.com/jingliancui/XamarinFormsAMapSDKSample/tree/master/iOS)|[iOS](https://lbs.amap.com/api/ios-sdk/download)<br>[Android](https://lbs.amap.com/api/android-sdk/download)|
- JPush<br>(极光推送) |Community| auto:<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Jcore.svg?label=JCore)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Jcore/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Jpush.svg?label=JPush)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Jpush/)<br>manual:<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Manual.JCore.svg?label=JCore)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Manual.JCore/)<br>[![NuGet](https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.Manual.JPush.svg?label=JPush)](https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.Manual.JPush/)| ❌ | [Demo URL](https://github.com/jingliancui/XamarinFormsJPushSample) |❌|[Android](https://docs.jiguang.cn/jpush/client/Android/android_guide/#jcenter)<br>[iOS](https://docs.jiguang.cn/jpush/client/iOS/ios_guide_new/#_4)|
 
 <br>
 
@@ -21,6 +20,36 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>iOS Demo</th>
       <th>Native Packages</th>
       <th>Effect</th>
+    </tr>
+    <!--Jpush-->
+    <tr>
+        <td>Baidu Map SDK</td>
+        <td>Community</td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.DotNet.Android.JPush/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.DotNet.Android.JPush.svg?label=JPush"/>
+            </a>
+            <br>
+        </td>
+        <td>
+            ❌ Android Only
+        </td>
+        <td>
+            <a href="https://github.com/jingliancui/DotNetJPushSample">
+                Demo URL
+            </a>
+        </td> 
+        <td>
+            ❌ Android Only
+        </td>    
+        <td>
+            <a href ="https://docs.jiguang.cn/jpush/quickstart/Android_quick">
+                JPush document               
+            </a>
+        </td>
+        <td>            
+            
+        </td>
     </tr>
     <!--Tencent OpenSDK and OpenAPI-->
     <tr>
