@@ -48,9 +48,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
         <td>            
-            <a href ="https://docs.jiguang.cn/jpush/quickstart/Android_quick">
-                JPush document               
-            </a>
+            <img alt="Android" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/Android/JPush.gif?raw=true"/>
         </td>
     </tr>    
     <!--Tencent OpenSDK and OpenAPI-->
