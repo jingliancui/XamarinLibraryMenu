@@ -478,7 +478,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>     
         <td>
-            <a href="https://bintray.com/wechat-sdk-team/maven/com.tencent.mm.opensdk%3Awechat-sdk-android-without-mta#">
+            <a href="https://developers.weixin.qq.com/doc/oplatform/Downloads/Android_Resource.html">
                 Android
             </a>
             <br>
