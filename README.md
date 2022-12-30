@@ -48,7 +48,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
         <td>            
-            <img alt="Android" src="https://gitee.com/speedcui/xamarin-library-preview-picture/raw/master/Resources/Images/Android/JPush.gif"/>
+            <img alt="Android" src="https://gitee.com/speedcui/xamarin-library-preview-picture/raw/master/Resources/Images/Android/JPush.gif?raw=true"/>
         </td>
     </tr>    
     <!--Tencent OpenSDK and OpenAPI-->
