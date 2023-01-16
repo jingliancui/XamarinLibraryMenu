@@ -21,6 +21,32 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
       <th>Native Packages</th>
       <th>Effect</th>
     </tr>
+    <!--Tencent Wechat SDK-->
+    <tr>
+        <td>Tencent Android and iOS WeChatSDK</td>
+        <td>Community</td>
+        <td>
+            To be added
+        </td>
+        <td>
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Net.iOS.WechatSDK/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Net.iOS.WechatSDK.svg?label=WeChatSDK"/>
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/DotNetWechatSDKSample">
+                Demo URL
+            </a>
+        </td>         
+        <td>
+            <a href ="https://developers.weixin.qq.com/doc/oplatform/Downloads/iOS_Resource.html">
+                Open Platform
+            </a>
+        </td>
+        <td>
+            <img alt="iOS" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/iOS/WechatOpenSDK.gif?raw=true"/>
+        </td>
+    </tr>
     <!--Jpush-->
     <tr>
         <td>JPush</td>
