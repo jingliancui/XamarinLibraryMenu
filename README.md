@@ -44,7 +44,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
         <td>
-        <video src="http://mpvideo.qpic.cn/0bc3iuaaeaaadqabas6bzjrvarodajcqaaqa.f10002.mp4?dis_k=4ffaf01c5a660b5f1b66b1f032db4aa5&dis_t=1674026732&play_scene=10400&spec_id=undefined1674026732&vid=wxv_2751551643401486336&format_id=10002&support_redirect=1&mmversion=false" controls="controls">
+        <video src="https://vdn6.vzuu.com/HD/b5e7f658-931d-11ed-97e2-067a017c665f-v8_f1_t1_1djjVHrc.mp4?pkey=AAW3b7D1HLa9gGXcy2OTPtVio8zUijWwFQRB7AArBzg4dtgPK2d8oJEpusMrNPVp3wUx-7XJ3j7R1W8gQR4JxBXq&c=avc.8.0&f=mp4&pu=e59e796c&bu=http-e59e796c&expiration=1674034517&v=ks6" controls="controls">
         your browser does not support the video tag
         </video>
         </td>
