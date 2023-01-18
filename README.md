@@ -44,7 +44,9 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
         <td>
-         https://user-images.githubusercontent.com/16309962/213108652-0ee67c93-d551-42c3-9ec1-a13da54a527d.mp4
+        <video src="https://user-images.githubusercontent.com/16309962/213108652-0ee67c93-d551-42c3-9ec1-a13da54a527d.mp4" controls="controls">
+        your browser does not support the video tag
+        </video>
         </td>
     </tr>
     <!--Jpush-->
