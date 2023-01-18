@@ -44,7 +44,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
         <td>
-            <img alt="iOS" src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/iOS/WechatOpenSDK.gif?raw=true"/>
+        http://mpvideo.qpic.cn/0bc3iuaaeaaadqabas6bzjrvarodajcqaaqa.f10002.mp4?dis_k=0b58cac2eb2401713d8b4d4431f4bbeb&dis_t=1674025682&play_scene=10400&spec_id=undefined1674025682&vid=wxv_2751551643401486336&format_id=10002&support_redirect=1&mmversion=false
         </td>
     </tr>
     <!--Jpush-->
