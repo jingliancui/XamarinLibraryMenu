@@ -44,7 +44,7 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>
         <td>
-        <video src="https://vdn6.vzuu.com/HD/b5e7f658-931d-11ed-97e2-067a017c665f-v8_f1_t1_1djjVHrc.mp4?pkey=AAW3b7D1HLa9gGXcy2OTPtVio8zUijWwFQRB7AArBzg4dtgPK2d8oJEpusMrNPVp3wUx-7XJ3j7R1W8gQR4JxBXq&c=avc.8.0&f=mp4&pu=e59e796c&bu=http-e59e796c&expiration=1674034517&v=ks6" controls="controls">
+        <video src="https://github.com/jingliancui/XamarinLibraryMenu/blob/master/Resources/Images/iOS/WechatOpenSDK.mp4" controls="controls">
         your browser does not support the video tag
         </video>
         </td>
