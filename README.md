@@ -49,6 +49,30 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
         </video>
         </td>
     </tr>
+    <!--Video Background-->
+    <tr>
+        <td>Video Background<br>(MediaElement)</td>
+        <td>Official</td>
+        <td colspan="2">
+            <a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/mediaelement">
+                MediaElement
+            </a>
+        </td>
+        <td colspan="2">
+            <a href="https://github.com/jingliancui/XamarinFormsVideoBackgroundrSample">
+                Demo URL
+            </a>
+        </td>
+        <td></td>
+        <td>
+        <video src="https://user-images.githubusercontent.com/16309962/228448897-c629f82f-dae9-4eee-8142-7322ec059268.mp4" controls="controls">
+        your browser does not support the video tag
+        </video>
+        <video src="https://user-images.githubusercontent.com/16309962/228448694-29ca393a-18ac-4d81-bd1c-7f9b783baf0a.mp4" controls="controls">
+        your browser does not support the video tag
+        </video>
+        </td>
+    </tr>
     <!--Jpush-->
     <tr>
         <td>JPush</td>
@@ -875,29 +899,6 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>     
         <td>
-        </td>
-    </tr>
-    <!--Video Background-->
-    <tr>
-        <td>Video Background<br>(MediaElement)</td>
-        <td>Official</td>
-        <td colspan="2">
-            <a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/mediaelement">
-                MediaElement
-            </a>
-        </td>
-        <td colspan="2">
-            <a href="https://github.com/jingliancui/XamarinFormsVideoBackgroundrSample">
-                Demo URL
-            </a>
-        </td>     
-        <td>
-        <video src="https://user-images.githubusercontent.com/16309962/228448897-c629f82f-dae9-4eee-8142-7322ec059268.mp4" controls="controls">
-        your browser does not support the video tag
-        </video>
-        <video src="https://user-images.githubusercontent.com/16309962/228448694-29ca393a-18ac-4d81-bd1c-7f9b783baf0a.mp4" controls="controls">
-        your browser does not support the video tag
-        </video>
         </td>
     </tr>
     <!--SignaturePad-->
