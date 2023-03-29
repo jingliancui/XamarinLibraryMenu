@@ -26,7 +26,9 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
         <td>Tencent Android and iOS WeChatSDK</td>
         <td>Community</td>
         <td>
-            To be added
+            <a href="https://www.nuget.org/packages/XamarinLibrary.Xamarin.Android.WechatSDK/">
+                <img alt="NuGet" src="https://img.shields.io/nuget/vpre/XamarinLibrary.Xamarin.Android.WechatSDK.svg?label=WeChatSDK"/>
+            </a>
         </td>
         <td>
             <a href="https://www.nuget.org/packages/XamarinLibrary.Net.iOS.WechatSDK/">
