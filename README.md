@@ -892,6 +892,12 @@ Feature | Official <br>or<br> Community|Android | iOS | Android Demo | iOS Demo 
             </a>
         </td>     
         <td>
+        <video src="https://user-images.githubusercontent.com/16309962/228448897-c629f82f-dae9-4eee-8142-7322ec059268.mp4" controls="controls">
+        your browser does not support the video tag
+        </video>
+        <video src="https://user-images.githubusercontent.com/16309962/228448694-29ca393a-18ac-4d81-bd1c-7f9b783baf0a.mp4" controls="controls">
+        your browser does not support the video tag
+        </video>
         </td>
     </tr>
     <!--SignaturePad-->
